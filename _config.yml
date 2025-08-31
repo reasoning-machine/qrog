@@ -6,16 +6,16 @@ relative_links:
 include:
   - README.md
   - LICENSE.md
-url: https://thingking-machine.github.io
+url: https://reasoning-machine.github.io
 baseurl: /qrog
 
-title: Thingking Machine
+title: Reasoning Machine
 description: A machine is a thing. Things can not think. ...but some of them can thingk!
 
 machine:
-  name: Thingking-Machine
-  verb: Thingking
-  instructions_file: thingking.md
+  name: Reasoning-Machine
+  verb: Reasoning
+  instructions_file: reasoning.md
   token: qrog
   server: https://localhost:443
   apiUrl: https://api.groq.com/openai/v1/chat/completions
@@ -33,8 +33,8 @@ lm:
 
 
 github_settings:
-  owner: thingking-machine
-  repo: thingking_machine
+  owner: reasoning-machine
+  repo: reasoning_machine
   file_name: machina.yaml
   branch: main
   token_file: github.txt

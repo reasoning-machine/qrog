@@ -1,1 +1,1 @@
-### Thingking Machine (qrog)
+### Reasoning Machine (qrog)
